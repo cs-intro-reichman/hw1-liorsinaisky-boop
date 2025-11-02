@@ -1,9 +1,6 @@
-// Generates three integer random numbers in a given range,
-// and prints them in increasing order.
+
 public class Ascend {
 	public static void main(String[] args) {
-		//hello
-		// lim should be >0
 		int lim = 100;
 		double a = (Math.random()*lim);
 		double b = (Math.random()*lim);
